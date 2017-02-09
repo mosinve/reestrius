@@ -1,0 +1,329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"Rela",
+				"Relation::belongsTo\tA one-to-one inverse relationship."
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"S",
+				"Schema"
+			],
+			[
+				"string",
+				"highlight_string"
+			],
+			[
+				"inc",
+				"increments"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Autocomplete file name"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"sk",
+				"Select Skin"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Select Theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mat",
+				"Material Theme: Activate theme"
+			],
+			[
+				"LIS",
+				"Package Control: List Packages"
+			],
+			[
+				"ma",
+				"Material Theme: Activate theme"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: relatio",
+				"Snippet: A one-to-many relationship."
+			],
+			[
+				"Snippet: ",
+				"Snippet: Create new table"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"se",
+				"Select Skin"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"lava mi",
+				"Laravel Artisan 5: Migrate:Refresh"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/cih/NetBeansProjects/reestrius",
+		"/home/cih/NetBeansProjects/reestrius/public/css",
+		"/home/cih/NetBeansProjects/reestrius/resources/views",
+		"/home/cih/NetBeansProjects/reestrius/resources/views/objects"
+	],
+	"file_history":
+	[
+		"/home/cih/NetBeansProjects/reestrius/app/Property.php",
+		"/home/cih/NetBeansProjects/reestrius/resources/views/layout.blade.php",
+		"/home/cih/NetBeansProjects/reestrius/public/css/app.css",
+		"/home/cih/NetBeansProjects/reestrius/routes/web.php",
+		"/home/cih/NetBeansProjects/reestrius/resources/views/index.blade.php",
+		"/home/cih/NetBeansProjects/reestrius/composer.json",
+		"/home/cih/NetBeansProjects/reestrius/bootstrap/autoload.php",
+		"/home/cih/NetBeansProjects/reestrius/config/app.php",
+		"/home/cih/NetBeansProjects/reestrius/resources/views/objects/index.blade.php",
+		"/home/cih/NetBeansProjects/reestrius/app/Http/Controllers/ObjectsController.php",
+		"/home/cih/NetBeansProjects/reestrius/app/app.php",
+		"/home/cih/NetBeansProjects/reestrius/resources/views/dialogs.blade.php",
+		"/home/cih/NetBeansProjects/reestrius/resources/views/objects/create.blade.php",
+		"/home/cih/NetBeansProjects/reestrius/resources/views/objects/edit",
+		"/home/cih/NetBeansProjects/reestrius/resources/views/welcome.blade.php",
+		"/home/cih/NetBeansProjects/reestrius/app/Http/Controllers/PropertiesController.php",
+		"/home/cih/NetBeansProjects/reestrius/app/Http/Controllers/ValuesController.php",
+		"/home/cih/NetBeansProjects/reestrius/app/Http/Controllers/objectrest.php",
+		"/home/cih/NetBeansProjects/reestrius/app/Value.php",
+		"/home/cih/NetBeansProjects/reestrius/app/Object.php",
+		"/home/cih/NetBeansProjects/reestrius/database/migrations/2017_02_04_211402_create_object_property_table.php",
+		"/home/cih/NetBeansProjects/reestrius/database/migrations/2017_02_04_165740_create_properties_table.php",
+		"/home/cih/NetBeansProjects/reestrius/database/migrations/2017_02_04_165753_create_values_table.php",
+		"/home/cih/NetBeansProjects/reestrius/database/migrations/2017_02_04_212342_create_foreign_keys.php",
+		"/home/cih/NetBeansProjects/reestrius/database/migrations/2017_02_04_210737_create_types_table.php",
+		"/home/cih/NetBeansProjects/reestrius/database/migrations/2017_02_04_165718_create_objects_table.php",
+		"/home/cih/NetBeansProjects/reestrius/database/migrations/2017_02_04_170441_create_obj_prop_values_table.php",
+		"/home/cih/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/cih/NetBeansProjects/reestrius/reestrius.sublime-project",
+		"/home/cih/NetBeansProjects/reestrius/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php",
+		"/home/cih/NetBeansProjects/reestrius/vendor/laravel/framework/src/Illuminate/Notifications/HasDatabaseNotifications.php",
+		"/home/cih/NetBeansProjects/reestrius/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php",
+		"/home/cih/NetBeansProjects/reestrius/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php",
+		"/home/cih/NetBeansProjects/reestrius/vendor/laravel/framework/src/Illuminate/Database/Connection.php",
+		"/home/cih/NetBeansProjects/reestrius/.env",
+		"/home/cih/NetBeansProjects/reestrius/resources/views/about.blade.php",
+		"/home/cih/NetBeansProjects/reestrius/public/index.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"string\t\t\t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 70.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "reestrius.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"obj.bl",
+				"resources/views/objects/index.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 92.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 940.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 414.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
